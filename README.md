@@ -1,6 +1,7 @@
+
 # lessmade
 
-> Backend Developer
+> Building distributed backend systems.
 
 ### Tech Stack
 
@@ -11,8 +12,22 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Currently
+---
 
-- Building backend applications
-- Learning distributed systems
-- Exploring clean architecture
+## Featured Project
+
+### WorkTime Sync *(Hackathon • RTU MIREA "Spring Code")*
+
+Distributed microservice system for employee workload analysis and calendar synchronization.
+
+**My microservices**
+
+- **Conflict Service** — Detects schedule conflicts using employee profiles and calendar events. Consumes Kafka events and recalculates conflicts automatically.
+- **Profile Service** — Stores employee profiles and publishes domain events for other microservices.
+- **Task Service** — Imports and normalizes Google Calendar events into a unified internal model.
+
+**Built with**
+
+`Spring Boot` • `Apache Kafka` • `PostgreSQL` • `Docker`
+
+
