@@ -13,7 +13,7 @@
 
 ---
 
-# 🚀 Highlight Project
+# Highlight Project
 
 ## WorkTime Sync
 
