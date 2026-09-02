@@ -1,6 +1,6 @@
 # lessmade
 
-> Building distributed backend systems with Java & Spring.
+Backend Dev
 
 ## Tech Stack
 
