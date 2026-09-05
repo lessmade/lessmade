@@ -16,7 +16,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<img width="1041" height="501" alt="image" src="https://github.com/user-attachments/assets/d93d2f3c-a3b3-4bc4-bd37-32739a314f2f" />
 
-![Uploading image.png…]()
 
 
